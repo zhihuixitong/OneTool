@@ -1,0 +1,7 @@
+插件官网：http://chrome.cenchy.com
+js网址：https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js
+
+
+实现功能：
+1.英译中----20220425
+2.中译英----（待完善）
